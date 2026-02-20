@@ -106,13 +106,16 @@ Extended IP access list 105
 Açıklama
 
 7 matches → 192.168.1.10 adresinden gelen FTP trafiği başarılı
+
 24 matches → Diğer istemcilerin FTP denemeleri engellenmiş
+
 4 matches → ICMP trafiği izinli
 
 
 🚀 Kullanılan Araç
 
 - Cisco Packet Tracer
+
 
 
 
