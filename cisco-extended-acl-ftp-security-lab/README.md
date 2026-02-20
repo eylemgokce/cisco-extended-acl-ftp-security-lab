@@ -102,7 +102,7 @@ Extended IP access list 105
 '''
 
 ### Screenshot
-![ACL Verification](verification.png)
+![ACL Verification](images/verification.png)
 
 Açıklama
 
@@ -114,6 +114,7 @@ Açıklama
 🚀 Kullanılan Araç
 
 - Cisco Packet Tracer
+
 
 
 
