@@ -99,7 +99,7 @@ Extended IP access list 105
     20 deny tcp 192.168.1.0 0.0.0.255 host 172.16.10.100 eq ftp (24 match(es))
     30 permit icmp any any (4 match(es))
 
-'''
+```markdown
 
 ### Screenshot
 ![ACL Verification](images/verification.png)
@@ -114,6 +114,7 @@ Açıklama
 🚀 Kullanılan Araç
 
 - Cisco Packet Tracer
+
 
 
 
